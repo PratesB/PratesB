@@ -1,4 +1,4 @@
-# 👨‍💻 Bruno Prates!
+# 👨‍💻 Bruno Prates
 
 I'm a **`Full-Stack Software Developer`** with expertise in Python, Django, FastAPI, and Flask, with Vue.js knowledge. My diverse background as a  lawyer and company co-founder gives me a unique business perspective. Holding a postgraduate degree in Data Science, I bring a data-aware perspective to my work. I have  experience in RPA and AI implementation for process optimization and building systems. I thrive on crafting elegant solutions using modern technologies, from monolithic to microservices architectures. My work blends creativity with technical precision to deliver impactful software. I'm a problem-solver who understands the full product lifecycle.
 
